@@ -1,0 +1,11 @@
+build/
+build-*/
+.cache/
+compile_commands.json
+*.o
+*.h264
+*.yuv
+*.pcm
+.vscode/
+.idea/
+*.log
